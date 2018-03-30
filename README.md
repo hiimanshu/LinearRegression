@@ -1,2 +1,2 @@
 # LinearRegression
-Implementing linear regression model for two or more features 
+Implementation of linear regression model for two or more features 
